@@ -1,0 +1,18 @@
+Primero que nada, al entrar al servidor, se debe acceder al directorio donde están todos los archivos de la entrega 2
+necesarios, mediante "cd entorno_entrega2" accedemos a dicho directorio, y ejecutamos "source bin/activate" para
+activar el entorno de pip.
+
+Hemos optado separar la lógica operativa del proceso de cargadores en dos scripts, que son "crear_tablas.py" y 
+"popular_tablas.py", con el fin de poder depurar más fácilmente cualquier problema o error: cada ejecución
+de scripts entrega, mediante su ejecución en consola, un output informativo mediante prints, en caso
+de éxito o errores en sus respectivas tareas, así que nos parece mejor que su ejecución se haga por separado,
+en vez de juntarlo todo en un solo cargador, ya que cumplen tareas muy diferentes.
+
+- Para hacer uso de los cargadores, hay que primeramente ejecutar el fichero "crear_tablas.py" mediante
+"python3 crear_tablas.py", esto leerá los csv iniciales almacenados en el directorio "csv_iniciales",
+ creará los csv intermedios que se almacenarán en el directorio "csv_generados" que ya está creado (si no está creada, usted debe crearla). Este script también se encarga de usar el fichero "creacion_tablas.sql" dentro del mismo directorio "entorno_entrega2" para crear las tablas correspondientes. Considerar que, primero que nada, el fichero "crear_tablas.py" hace uso de la función "limpiar_tablas" que, como su nombre expresa, se dedica que limpiar todas las tablas antes de cualquier operación.
+ 
+- Luego, para poblar las tablas con datos, hay que ejecutar manualmente el fichero "popular_tablas.py",
+que se encargará de utilizar los csv_generados anteriormente para llenar las tablas,
+este fichero también entregará información sobre tuplas que hemos decido desechar por no cumplir
+con las restricciones de integridad, como por ejemplo, las tuplas que tienen ids repetidos y demás.

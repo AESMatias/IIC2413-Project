@@ -1,0 +1,172 @@
+nombre;vigente;estilo;prec_min_repar_gratis
+DCCRestaurant;TRUE;fast food;10000
+Meet Burger;FALSE;fast food;5000
+Meet Burger;FALSE;fast food;5000
+Meet Burger;FALSE;fast food;5000
+Meet Burger;FALSE;fast food;5000
+Burger Queen;FALSE;fast food;8000
+Burger Queen;FALSE;fast food;8000
+Delicia China;FALSE;internacional;11000
+Delicia China;FALSE;internacional;11000
+Delicia China;FALSE;internacional;11000
+Indian Cuisine;TRUE;internacional;8000
+Indian Cuisine;TRUE;internacional;8000
+Indian Cuisine;TRUE;internacional;8000
+Indian Cuisine;TRUE;internacional;8000
+Indian Cuisine;TRUE;internacional;8000
+Mestiza;TRUE;fancy;10000
+Bogaro;TRUE;fancy;4000
+Chick-Fil-A;TRUE;fancy;6000
+Chick-Fil-A;TRUE;fancy;6000
+Chick-Fil-A;TRUE;fancy;6000
+Chick-Fil-A;TRUE;fancy;6000
+Chick-Fil-A;TRUE;fancy;6000
+Chick-Fil-A;TRUE;fancy;6000
+Chick-Fil-A;TRUE;fancy;6000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Donald Mc;FALSE;fast food;3000
+Aroma Limeo;TRUE;internacional;3000
+Nolita;TRUE;fancy;11000
+Nolita;TRUE;fancy;11000
+Nolita;TRUE;fancy;11000
+Nolita;TRUE;fancy;11000
+Nolita;TRUE;fancy;11000
+Outback Steak;FALSE;fast food;19000
+Outback Steak;FALSE;fast food;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+Gilded Truffle;TRUE;internacional;19000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+FCK;FALSE;fast food;9000
+Central Perk;FALSE;café;18000
+Central Perk;FALSE;café;18000
+Central Perk;FALSE;café;18000
+Central Perk;FALSE;café;18000
+Central Perk;FALSE;café;18000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Krusty Krab;TRUE;fancy;3000
+Chum Bucket;FALSE;fast food;11000
+Chum Bucket;FALSE;fast food;11000
+Chum Bucket;FALSE;fast food;11000
+Chum Bucket;FALSE;fast food;11000
+Chum Bucket;FALSE;fast food;11000
+Chum Bucket;FALSE;fast food;11000
+Chum Bucket;FALSE;fast food;11000
+Chum Bucket;FALSE;fast food;11000
+Doble Queso;TRUE;fast food;3000
+Doble Queso;TRUE;fast food;3000
+Doble Queso;TRUE;fast food;3000
+Doble Queso;TRUE;fast food;3000
+Doble Queso;TRUE;fast food;3000
+Doble Queso;TRUE;fast food;3000
+Pollos Hermanos;FALSE;internacional;7000
+Pollos Hermanos;FALSE;internacional;7000
+Pollos Hermanos;FALSE;internacional;7000
+Pollos Hermanos;FALSE;internacional;7000
+Pollos Hermanos;FALSE;internacional;7000
+Pollos Hermanos;FALSE;internacional;7000
+Pollos Hermanos;FALSE;internacional;7000
+Casiss;FALSE;café;10000
+Casiss;FALSE;café;10000
+Casiss;FALSE;café;10000
+Casiss;FALSE;café;10000
+Casiss;FALSE;café;10000
+Casiss;FALSE;café;10000
+Casiss;FALSE;café;10000
+Comida Peruana;FALSE;internacional;19000
+Comida Peruana;FALSE;internacional;19000
+Comida Peruana;FALSE;internacional;19000
+DeliQuick;TRUE;fast food;8000
+DeliQuick;TRUE;fast food;8000
+DeliQuick;TRUE;fast food;8000
+DeliQuick;TRUE;fast food;8000
+Korf;FALSE;fast food;16000
+Korf;FALSE;fast food;16000
+Korf;FALSE;fast food;16000
+Korf;FALSE;fast food;16000
+Korf;FALSE;fast food;16000
+Korf;FALSE;fast food;16000
+Korf;FALSE;fast food;16000
+Korf;FALSE;fast food;16000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Castaa;TRUE;café;4000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Papa Juan;FALSE;fast food;15000
+Pequeo Cesar;FALSE;fast food;8000
+Pequeo Cesar;FALSE;fast food;8000
+Pequeo Cesar;FALSE;fast food;8000
+Pequeo Cesar;FALSE;fast food;8000
+Pequeo Cesar;FALSE;fast food;8000
+Pequeo Cesar;FALSE;fast food;8000
+Pequeo Cesar;FALSE;fast food;8000
+Pequeo Cesar;FALSE;fast food;8000
+Metro Sandwich;FALSE;fast food;2000
+Metro Sandwich;FALSE;fast food;2000
+Metro Sandwich;FALSE;fast food;2000
+Metro Sandwich;FALSE;fast food;2000
+New Sushi;FALSE;internacional;3000
+New Sushi;FALSE;internacional;3000
+New Sushi;FALSE;internacional;3000
+New Sushi;FALSE;internacional;3000
+New Sushi;FALSE;internacional;3000
+New Sushi;FALSE;internacional;3000
+New Sushi;FALSE;internacional;3000
+Carlos Sr;FALSE;fast food;7000
+Carlos Sr;FALSE;fast food;7000
+Carlos Sr;FALSE;fast food;7000
+Carlos Sr;FALSE;fast food;7000
+Carlos Sr;FALSE;fast food;7000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000
+Just Pizza;TRUE;fast food;8000

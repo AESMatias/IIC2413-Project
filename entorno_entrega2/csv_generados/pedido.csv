@@ -1,0 +1,125 @@
+id;cliente;sucursal;delivery;despachador;plato;fecha;hora;estado
+1;Antonio.Rivera@bbdduc.utopia;Maintencin;ATuCasa;Jordan Warren;0;2023-12-19;14:57:50-03;Cliente cancela
+3;Ignacia.Rio@bbdduc.utopia;Estado;FoodBasics;Ava Davis;49  81;2023-06-03;17:22:11-03;restaurant cancela
+4;Bruno.Rico@bbdduc.utopia;Apoquindo;ATuCasa;Alexander Robinson;92;2023-03-02;6:08:06-03;entregado a cliente
+6;Elias.Santibanez@bbdduc.utopia;Grecia;UbreFoods;Camila Green;58  82;2023-01-29;23:22:45-03;Cliente cancela
+8;Andres.Balzan@bbdduc.utopia;Grecia;FoodBasics;John Brooks;5  6;2023-09-15;14:50:58-03;restaurant cancela
+7;Nicolas.Zambrano@bbdduc.utopia;Maintencin;Balloon;Eli Howard;1  19  56  6;2023-09-23;9:18:36-03;entregado a cliente
+10;Angeles.Monzon@bbdduc.utopia;Maintencin;PedidosNow;Charles Butler;7  26  28;2023-05-11;20:27:25-03;entregado a cliente
+12;Santiago.Garcia@bbdduc.utopia;Estado;ComidaAhora;Jose Coleman;83;2023-07-26;4:09:58-03;Cliente cancela
+13;Agustin.Matte@bbdduc.utopia;Apoquindo;FastDelivery;Penelope Murphy;91;2023-10-04;22:49:09-03;restaurant cancela
+19;Andrea.Guevara@bbdduc.utopia;Estado;FastDelivery;William Moore;77  22;2023-05-20;2:01:55-03;entregado a cliente
+15;Ignacio.Mellado@bbdduc.utopia;Maintencin;UbreFoods;Benjamin Jackson;2;2023-02-02;22:11:38-03;entregado a cliente
+16;Ignacia.Rolando@bbdduc.utopia;Maintencin;UbreFoods;Camila Green;20  41  10;2023-10-04;10:30:13-03;delivery cancela
+17;Nicolas.Plaza@bbdduc.utopia;Maintencin;Balloon;Cole Palmer;6;2023-07-16;12:52:44-03;Cliente cancela
+18;Abel.Gandolfi@bbdduc.utopia;Grecia;ATuCasa;Jaxon Hunt;21;2023-03-05;15:20:47-03;entregado a cliente
+20;Eduardo.Cortez@bbdduc.utopia;Apoquindo;FoodNow;Carter Adams;24  91  89;2023-10-20;8:30:56-03;en preparacion
+21;Humberto.Hormann@bbdduc.utopia;Viel;SlowDelivery;Colton Cox;93;2023-03-28;22:35:38-03;Cliente cancela
+22;Ignacio.Conejeros@bbdduc.utopia;OHiggins;Balloon;Evelyn Garcia;48;2023-07-08;15:20:40-03;restaurant cancela
+23;Ignacia.Greene@bbdduc.utopia;Prat;ATuCasa;Madelyn Henderson;93;2023-09-29;23:27:09-03;entregado a cliente
+25;Alejandro.Daroca@bbdduc.utopia;Grecia;FastDelivery;Jonathan Richardson;62;2023-11-02;5:33:11-03;entregado a cliente
+27;Andres.Barrera@bbdduc.utopia;Apoquindo;ATuCasa;Everly Turner;8;2023-07-10;7:10:09-03;delivery cancela
+24;Nicolas.Munoz@bbdduc.utopia;Maintencin;NotRappido;Eli Howard;40;2023-07-23;0:51:52-03;entregado a cliente
+29;Andres.Gallardo@bbdduc.utopia;OHiggins;Speed;Lucy Myers;19;2023-05-19;8:40:47-03;en preparacion
+31;Yerhov.Silberberg@bbdduc.utopia;Alemania;DCCRappi;Camila Green;77  39;2023-03-25;10:09:21-03;delivery cancela
+34;Ernst.Bustos@bbdduc.utopia;Maintencin;FoodBasics;David Carter;3  22;2023-09-18;9:53:27-03;pendiente
+38;Jesus.Valera@bbdduc.utopia;Apoquindo;FastDelivery;Jonathan Richardson;64;2023-06-24;20:15:38-03;delivery cancela
+39;Eduardo.Gonzalez@bbdduc.utopia;Viel;UbreFoods;Penelope Murphy;49;2023-07-18;19:56:57-03;delivery cancela
+40;Andres.Saavedra@bbdduc.utopia;Maintencin;Speed;Jack Long;38;2024-04-13;15:24:02-03;en preparacion
+26;Paz.Egnem@bbdduc.utopia;Estado;EsquinaShop;Zoey Hughes;70  4;2023-12-12;17:24:07-03;entregado a cliente
+46;Robinson.Hermosilla@bbdduc.utopia;Viel;UbreFoods;Nora Simmons;73  81;2024-03-22;14:29:35-03;pendiente
+76;Alejandro.Sierra@bbdduc.utopia;Maintencin;FoodBasics;Elena Murphy;5  10;2023-06-20;11:20:26-03;entregado a cliente
+78;Ignacia.Ruiz@bbdduc.utopia;Estado;NotRappido;Elijah Miller;87  32;2023-05-01;12:09:52-03;delivery cancela
+79;Gabriel.Moraga@bbdduc.utopia;Apoquindo;Balloon;John Brooks;55  53;2024-04-08;2:49:56-03;entregado a cliente
+36;Jesus.Estremadoyro@bbdduc.utopia;Grecia;DCCRappi;Sebastian Wright;92  31  3;2023-07-01;7:24:38-03;entregado a cliente
+82;Antonio.Ponce@bbdduc.utopia;Prat;EsquinaShop;Violet Powell;70  57;2023-12-23;1:37:25-03;delivery cancela
+37;Enrique.Costa@bbdduc.utopia;Estado;Speed;Grace Phillips;47  90;2023-06-18;10:00:35-03;entregado a cliente
+41;Jesus.Bahamonde@bbdduc.utopia;Grecia;EsquinaShop;Avery Baker;21;2023-05-01;15:19:28-03;entregado a cliente
+0;francisca.ancic@uc.cl;Maintencin;Speed;Jaxon Hunt;0  29  62;2024-04-11;21:08:57-03;Cliente cancela
+2;Nicolas.Crisosto@bbdduc.utopia;Grecia;EsquinaShop;Lucas Harris;59  87;2023-04-05;13:48:48-03;entregado a cliente
+43;Paz.Pena@bbdduc.utopia;Grecia;Balloon;Ryan Mitchell;31  98  32;2023-07-30;11:55:18-03;entregado a cliente
+44;Andres.Meza@bbdduc.utopia;Estado;FastDelivery;Chloe Cooper;84;2023-01-18;17:14:14-03;entregado a cliente
+45;Elena.Morales@bbdduc.utopia;Apoquindo;ATuCasa;Clara Foster;99;2023-12-25;18:45:55-03;entregado a cliente
+54;Ignacio.Arias@bbdduc.utopia;Apoquindo;UbreFoods;Lucas Harris;94;2023-12-01;23:12:30-03;entregado a cliente
+56;Macarena.Galleguillos@bbdduc.utopia;OHiggins;FoodNow;Riley Price;65;2024-02-10;10:47:33-03;entregado a cliente
+57;Macarena.Saldana@bbdduc.utopia;Prat;ComidaAhora;Camila Green;60  16;2023-05-19;0:26:08-03;entregado a cliente
+58;Andres.Benavides@bbdduc.utopia;Alemania;FoodBasics;Madison Evans;15;2024-01-30;10:30:40-03;entregado a cliente
+60;Jose.Castelblanco@bbdduc.utopia;Coln;UbreFoods;Thomas Bell;43;2023-10-01;14:31:02-03;entregado a cliente
+63;Macarena.Martinez@bbdduc.utopia;Estado;PedidosNow;Juan Perez;95  65  44;2023-01-20;6:33:54-03;entregado a cliente
+65;Pablo.Gonzalez@bbdduc.utopia;Viel;Balloon;Sebastian Wright;88;2023-10-12;0:20:34-03;entregado a cliente
+71;Pablo.ORyan@bbdduc.utopia;OHiggins;DidiEats;Asher Hughes;40  75;2023-08-23;1:24:32-03;entregado a cliente
+72;Sayen.Reyes@bbdduc.utopia;Prat;ComidaAhora;Hannah Cook;89  87;2023-10-26;11:46:40-03;entregado a cliente
+73;Alejandro.Diaz@bbdduc.utopia;Alemania;PedidosNow;Cristan Ronald;9  40  3;2023-03-08;21:21:46-03;entregado a cliente
+77;Eduardo.Behrens@bbdduc.utopia;Grecia;Balloon;Sophia Wilson;20;2023-07-19;17:22:18-03;entregado a cliente
+81;Nicolas.Ayala@bbdduc.utopia;OHiggins;EsquinaShop;Ava Davis;5;2024-01-20;1:25:19-03;entregado a cliente
+105;Nicolas.Tromilen@bbdduc.utopia;Grecia;DCComida;Nova Russell;60  80;2023-07-24;19:00:17-03;pendiente
+106;Catalina.Schiappacasse@bbdduc.utopia;Estado;DidiEats;Ian Bryant;82;2023-09-13;0:30:17-03;en preparacion
+107;Giuseppe.Horta@bbdduc.utopia;Maintencin;EsquinaShop;Adrian Foster;87  21  1;2024-02-28;17:05:26-03;pendiente
+108;Catalina.Montenegro@bbdduc.utopia;Grecia;FoodNow;Sebastian Wright;9  21;2024-03-06;2:01:44-03;Cliente cancela
+109;Eduardo.Bustos@bbdduc.utopia;Estado;Speed;Clara Foster;49;2023-07-03;21:15:11-03;pendiente
+110;Silva.Intyre@bbdduc.utopia;Apoquindo;ComidaAhora;Dominic Stevens;92;2024-01-21;21:23:41-03;entregado a cliente
+111;Antonio.Smith@bbdduc.utopia;Maintencin;EsquinaShop;Madelyn Henderson;54  96;2023-10-26;17:28:56-03;delivery cancela
+112;Jose.Oyaneder@bbdduc.utopia;Grecia;DCComida;Avery Baker;24  38  96;2023-11-23;8:12:45-03;delivery cancela
+113;Belen.Torres@bbdduc.utopia;Estado;EsquinaShop;James Anderson;47  16  48  41;2024-04-02;8:58:33-03;en preparacion
+114;Ignacio.Alvarado@bbdduc.utopia;Apoquindo;ComidaAhora;Madelyn Henderson;2  5  16  35  96;2023-11-19;11:40:11-03;delivery cancela
+84;Jesus.Ramirez@bbdduc.utopia;Maintencin;FastDelivery;Jackson Allen;39  49;2023-11-29;22:49:19-03;entregado a cliente
+116;Paz.Arancibia@bbdduc.utopia;OHiggins;FastDelivery;Stella Torres;38  83  91;2023-04-20;11:29:35-03;Cliente cancela
+117;Eduardo.Wood@bbdduc.utopia;Prat;Speed;Skylar Dunn;55  48;2023-05-19;15:46:28-03;entregado a despachador
+118;Ignacio.Munoz@bbdduc.utopia;Alemania;ATuCasa;Eleanor Watson;2;2023-08-19;1:11:51-03;entregado a despachador
+119;Andrea.Moya@bbdduc.utopia;Maintencin;FastDelivery;Ryan Mitchell;12  14  19;2024-04-10;11:04:12-03;entregado a despachador
+120;Ignacio.Perry@bbdduc.utopia;Grecia;FoodBasics;Christian Bryant;69  67;2023-03-22;0:04:38-03;en preparacion
+121;Ignacio.Lpez@bbdduc.utopia;Estado;DCComida;Luna Coleman;42  46;2024-01-07;3:02:06-03;entregado a cliente
+122;Andrea.Renftel@bbdduc.utopia;Apoquindo;Speed;Nora Simmons;74  85;2024-02-09;11:34:29-03;entregado a despachador
+123;Kay.Zalaquett@bbdduc.utopia;Viel;DCComida;Ryan Mitchell;6;2023-05-15;11:00:25-03;Cliente cancela
+11;Jose.Dauber@bbdduc.utopia;Grecia;UbreFoods;Isaac Reed;7  34;2023-03-28;23:15:59-03;entregado a cliente
+100;Antonio.Moreno@bbdduc.utopia;Apoquindo;DidiEats;James Anderson;11  15;2023-06-30;15:27:53-03;delivery cancela
+74;Alejandro.Benitez@bbdduc.utopia;Larga;ComidaAhora;Oliver Jones;98   87;2023-08-25;0:25:00-03;en preparacion
+55;Andres.Reinhardt@bbdduc.utopia;Viel;FastDelivery;John Brooks;94;2023-07-24;15:36:10-03;Cliente cancela
+80;Eduardo.Osorio@bbdduc.utopia;Viel;FoodBasics;Jose Coleman;23  20;2023-09-08;14:39:26-03;entregado a cliente
+14;Humberto.Gmez@bbdduc.utopia;Viel;UbreFoods;Alexander Robinson;46  52  75;2023-10-06;2:26:50-03;en preparacion
+53;Andres.Cortes@bbdduc.utopia;Estado;FoodBasics;Ryan Mitchell;65  75  42  82;2023-11-30;15:05:06-03;en preparacion
+42;Javier.Arias@bbdduc.utopia;Maintencin;SlowDelivery;Thomas Bell;5  18;2023-08-10;11:05:53-03;en preparacion
+9;Diego.Fernandez@bbdduc.utopia;Estado;FoodNow;Eleanor Watson;88;2023-08-30;12:30:00-03;restaurant cancela
+5;Andres.Sanchez@bbdduc.utopia;Maintencin;NotRappido;Chloe Cooper;4  37;2023-08-29;10:59:17-03;Cliente cancela
+115;Antonio.Meneghini@bbdduc.utopia;Viel;SlowDelivery;Maria Foster;16;2024-03-12;14:31:32-03;en preparacion
+85;Andrea.Videla@bbdduc.utopia;Grecia;SlowDelivery;Adrian Foster;32;2023-08-14;15:14:10-03;entregado a cliente
+88;Alonso.Zanni@bbdduc.utopia;Viel;DCCRappi;Dominic Stevens;39  95;2023-06-15;3:13:33-03;entregado a cliente
+91;Florencia.Torres@bbdduc.utopia;Grecia;SlowDelivery;Samuel Foster;24  15  16;2024-04-25;16:28:22-03;entregado a cliente
+95;Andres.Ramirez@bbdduc.utopia;OHiggins;DCCRappi;Clara Foster;16  11;2023-12-24;20:31:07-03;entregado a cliente
+97;Alonso.Valladares@bbdduc.utopia;Maintencin;EsquinaShop;Riley Price;55  44  3;2023-12-04;19:49:57-03;entregado a cliente
+99;Ignacio.Gonzalez@bbdduc.utopia;Estado;SlowDelivery;Nova Russell;30  65;2023-04-18;4:39:14-03;entregado a cliente
+103;Sebastian.Salazar@bbdduc.utopia;Prat;EsquinaShop;Adrian Foster;33;2023-06-28;4:10:43-03;entregado a cliente
+28;Antonio.Larrain@bbdduc.utopia;Viel;Speed;Alexa Perry;8;2023-11-22;15:04:39-03;entregado a cliente
+94;Renasco.Quezada@bbdduc.utopia;Viel;SlowDelivery;Elena Murphy;43;2023-01-03;22:50:34-03;entregado a cliente
+59;Yan.Zhung@bbdduc.utopia;Larga;Balloon;Connor Barnes;82  75  14;2023-08-17;15:57:53-03;entregado a cliente
+83;Eduardo.Palacios@bbdduc.utopia;Alemania;FastDelivery;Lincoln Bailey;47;2023-03-31;20:19:40-03;entregado a cliente
+47;Ignacia.Oyarzun@bbdduc.utopia;OHiggins;FoodBasics;Chloe Cooper;3;2024-02-15;22:22:11-03;Cliente cancela
+48;Elena.Alarcn@bbdduc.utopia;Prat;ATuCasa;Chloe Cooper;3  68;2023-05-24;11:50:12-03;pendiente
+49;Alfredo.Catalan@bbdduc.utopia;Alemania;ComidaAhora;William Moore;18  28;2023-10-12;10:21:03-03;Cliente cancela
+50;Elena.Cintolesi@bbdduc.utopia;Larga;Speed;Aria Nelson;26  18;2023-12-20;5:45:41-03;en preparacion
+51;Antonia.Contreras@bbdduc.utopia;Maintencin;ComidaAhora;Layla Kelly;96;2024-01-15;6:56:41-03;pendiente
+52;Pedro.Correa@bbdduc.utopia;Grecia;FastDelivery;Daniel Lewis;14  76;2023-08-18;17:13:05-03;delivery cancela
+30;Andres.Ruiz@bbdduc.utopia;Prat;PedidosNow;Carter Adams;13  27;2023-02-20;3:39:07-03;entregado a cliente
+32;Diaz.Barrera@bbdduc.utopia;Larga;SlowDelivery;Jordan Warren;42  69;2023-09-02;22:26:02-03;entregado a cliente
+33;Ozzy.Baldini@bbdduc.utopia;Coln;ATuCasa;Isaac Reed;90;2023-05-26;20:44:51-03;entregado a cliente
+61;Segundo.Collinao@bbdduc.utopia;Maintencin;FoodBasics;Eleanor Watson;13  59;2023-08-07;14:43:33-03;entregado a cliente
+62;Macarena.Lungenstrass@bbdduc.utopia;Grecia;DCComida;Charles Butler;92  93  99;2024-02-21;19:13:59-03;Cliente cancela
+64;Andres.Mendez@bbdduc.utopia;Apoquindo;DCCRappi;Penelope Murphy;55  74;2023-07-01;16:46:02-03;delivery cancela
+66;Enrique.Mingo@bbdduc.utopia;Maintencin;EsquinaShop;John Brooks;35  41;2024-01-16;16:17:31-03;entregado a cliente
+67;Antonella.Roncagliolo@bbdduc.utopia;Grecia;NotRappido;Michael Scott;3  40;2024-01-03;21:24:35-03;delivery cancela
+68;Pablo.Montes@bbdduc.utopia;Estado;UbreFoods;Ryan Mitchell;91  89  75;2023-11-02;8:38:52-03;en preparacion
+69;Agustin.Reyes@bbdduc.utopia;Apoquindo;EsquinaShop;Nova Russell;31  56;2023-08-14;20:23:58-03;delivery cancela
+70;Enrique.Reyes@bbdduc.utopia;Viel;EsquinaShop;Sadie Price;94  74;2023-05-06;10:16:50-03;Cliente cancela
+35;Javier.Madrid@bbdduc.utopia;Maintencin;DCCRappi;Hunter Nelson;13  23;2023-11-30;17:26:50-03;entregado a cliente
+75;Pablo.Muse@bbdduc.utopia;Coln;UbreFoods;Nicholas Lynch;91;2023-11-10;18:30:55-03;en preparacion
+86;Eduardo.Vilches@bbdduc.utopia;Estado;DCCRappi;Henry Thompson;80  1;2023-05-20;0:33:56-03;entregado a cliente
+87;Domingo.Carvajal@bbdduc.utopia;Apoquindo;PedidosNow;Christian Bryant;21  64;2023-03-23;14:54:12-03;en preparacion
+89;Esteban.Marshall@bbdduc.utopia;OHiggins;NotRappido;Juan Perez;88;2023-12-22;7:21:15-03;pendiente
+90;Sofia.Tapia@bbdduc.utopia;Maintencin;ComidaAhora;Henry Thompson;1  64;2023-10-23;20:45:54-03;en preparacion
+92;Angeles.Castro@bbdduc.utopia;Estado;DCComida;Sadie Price;77  96;2023-04-03;16:23:10-03;Cliente cancela
+93;Alejandro.Vicencio@bbdduc.utopia;Apoquindo;DCCRappi;Alice Jenkins;37;2023-12-04;13:40:52-03;entregado a despachador
+96;Andres.Montt@bbdduc.utopia;Prat;DCComida;Elizabeth Young;58  59;2023-05-06;13:51:35-03;en preparacion
+98;Rovira.Gonzalez@bbdduc.utopia;Grecia;DCComida;Gabriel Parker;39;2023-10-14;15:43:10-03;delivery cancela
+101;Enoc.Asenjo@bbdduc.utopia;Viel;Speed;Connor Barnes;79  11  30  97;2024-03-02;1:33:28-03;Cliente cancela
+102;Jose.Martin@bbdduc.utopia;OHiggins;Speed;Nathan Gray;44;2023-09-16;12:53:23-03;Cliente cancela
+104;Carina.Duran@bbdduc.utopia;Maintencin;FastDelivery;Layla Kelly;17  78;2023-05-03;7:55:52-03;en preparacion

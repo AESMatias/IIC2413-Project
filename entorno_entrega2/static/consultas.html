@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Food App</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <h1>¡Easy Food App!</h1>
+    <h2>Para consultar, por favor selecciona una opción</h2>
+    <div id="container_back"><button class='inicio' id='back' onclick="window.location.href='/'">Inicio</button></div>
+    <h3>Explicación de las consultas:</h3>
+    <div class="">
+        <div class="container">
+            <h4>1. Muestre todos los restaurantes que ofrezcan un plato especı́fico ingresado y que esté disponible.</h4>
+            <button class='consulta' onclick="window.location.href='/form_consulta_one'">
+                Consulta 1</button>
+        </div>
+
+
+
+            <div class="container">
+                <h4>2. Muestre todos los pedidos de un usuario especı́fico ingresado y su gasto mensual (solo los pedidos
+                    concretados)</h4>
+                <button onclick="window.location.href='/form_consulta_two'">
+                    Consulta 2</button>
+            </div>
+
+
+            <div class="container">
+                <h4>3. Muestre todos pedidos concretados y cancelados y el valor total de ellos</h4>
+                <button onclick="window.location.href='/consulta_three'">
+                    Consulta 3</button>
+            </div>
+            <div class="container">
+                <h4>4. Dado un estilo de plato ingresado por el usuario, muestre todas los platos con ese tipo, los restaurantes
+                    que las ofrecen y las opciones de delivery.</h4>
+            <button onclick="window.location.href='/form_consulta_four'">
+                Consulta 4</button>
+            </div>
+            <div class="container">
+                <h4>5. Dado un estilo de plato seleccionado por el usuario, muestre todas las platos que pertenezcan a ese
+                    estilo y sus restricciones.</h4>
+            <button onclick="window.location.href='/form_consulta_five'">
+                Consulta 5</button>
+            </div>
+            <div class="container">
+                <h4>6. Dado un cliente ingresado por el usuario, muestre todas las restaurantes a las que tiene acceso con sus
+                    suscripciones.</h4>
+            <button onclick="window.location.href='/form_consulta_six'">
+                Consulta 6</button>
+            </div>
+            <div class="container">
+                <h4>7. Muestre la suma de dinero gastada por cada cliente en pedidos no incluidas en planes de suscripción.</h4>
+                <button onclick="window.location.href='/consulta_seven'">
+                    Consulta 7</button>
+            </div>
+            <div class="container">
+                <h4>8. Muestre todos los platos y los restaurantes que los ofrecen.</h4>
+                <button onclick="window.location.href='/consulta_eight'">
+                    Consulta 8</button>
+            </div>
+            <div class="container">
+                <h4>9. Dado un número ingresado por el usuario, muestre todos las evaluaciones de Clientes, Delivery,
+                    Despachador y Restaurant/sucursal superiores a él.</h4>
+            <button onclick="window.location.href='/form_consulta_nine'">
+                Consulta 9</button>
+            </div>
+            <div class="container">
+                <h4>10. Dado una un alergeno seleccionado por el usuario, muestre todos los platos que lo contengan en sus
+                    ingredientes (Ejemplo: manı́).</h4>
+            <button onclick="window.location.href='/form_consulta_ten'">
+                Consulta 10</button>
+            </div>
+
+    </div>
+</body>
+
+</html>

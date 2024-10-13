@@ -1,0 +1,172 @@
+nombre_restaurante;sucursal;direccion;telefono;area_despacho
+DCCRestaurant;Las Parcelas;Av. Las Parcelas 1234, Macul, Santiago;+562994152387; Macul
+Meet Burger;Providencia;Av. Providencia 456, Las Condes, Santiago;+56871243659; Las Condes
+Meet Burger;Vitacura;Av. Vitacura 789, Vitacura, Santiago;+56274568231; Vitacura
+Meet Burger;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+56321078546; Las Condes
+Meet Burger;Kennedy;Av. Kennedy 456, Las Condes, Santiago;+562109876452; Las Condes
+Burger Queen;Padre Mariano;Calle Padre Mariano 789, La Reina, Santiago;+56784561032; La Reina
+Burger Queen;Larran;Av. Larran 123, La Reina, Santiago;+562367891254; La Reina
+Delicia China;Recoleta;Av. Recoleta 456, Huechuraba, Santiago;+56215647893; Huechuraba
+Delicia China;San Pablo;Calle San Pablo 789, La Cisterna, Santiago;+562981456702; La Cisterna
+Delicia China;Libertador;Av. Libertador 123, Rancagua;+56670938215; Rancagua
+Indian Cuisine;Vitacura;Av. Vitacura 456, Vitacura, Santiago;+562547812369; Vitacura
+Indian Cuisine;Prat;Calle Prat 789, Iquique;+56123984756; Iquique
+Indian Cuisine;Libertador;Av. Libertador 123, Via del Mar;+562789465123; Via del Mar
+Indian Cuisine;Larga;Calle Larga 456, Los Andes;+56456789012; Los Andes
+Indian Cuisine;Coln;Av. Coln 789, Antofagasta;+562345678901; Antofagasta
+Mestiza;Lientur;Av. Lientur 123, Los Andes;+56987654321; Los Andes
+Bogaro;Escriva de Balaguer;Av. San José Mara Escrivá de Balaguer 5970, Vitacura, Santiago;+562192837465; Vitacura
+Chick-Fil-A;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+56876543210; Las Condes
+Chick-Fil-A;Estado;Calle Estado 456, Santiago Centro;+562765432109; Santiago Centro
+Chick-Fil-A;Grecia;Av. Grecia 789,uoa, Santiago;+56109876543;uoa
+Chick-Fil-A;Viel;Calle Viel 123, Via del Mar;+562432109876; Via del Mar
+Chick-Fil-A;OHiggins;Av. OHiggins 456, Rancagua;+56543210987; Rancagua
+Chick-Fil-A;Prat;Calle Prat 789, Iquique;+562987654321; Iquique
+Chick-Fil-A;Alemania;Av. Alemania 123, Temuco;+56210987654; Temuco
+Donald Mc;Grecia;Av. Grecia 456,uoa, Santiago;+562654321098;uoa
+Donald Mc;Estado;Calle Estado 789, Santiago Centro;+56876543219; Santiago Centro
+Donald Mc;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+562321098765; Las Condes
+Donald Mc;Viel;Calle Viel 456, Via del Mar;+56543219876; Via del Mar
+Donald Mc;OHiggins;Av. OHiggins 789, Rancagua;+562098765432; Rancagua
+Donald Mc;Prat;Calle Prat 123, Iquique;+56219876543; Iquique
+Donald Mc;Alemania;Av. Alemania 456, Temuco;+562876543210; Temuco
+Donald Mc;Larga;Calle Larga 789, Los Andes;+56765432109; Los Andes
+Donald Mc;Coln;Av. Coln 123, Antofagasta;+562543210987; Antofagasta
+Donald Mc;Vitacura;Av. Vitacura 456, Vitacura, Santiago;+56432109876; Vitacura
+Aroma Limeo;San Juan;Av. San Juan 202, Machal;+562210987654; Machal
+Nolita;Vitacura;Av. Vitacura 123, Vitacura, Santiago;+56109876542; Vitacura
+Nolita;Apoquindo;Av. Apoquindo 456, Las Condes, Santiago;+562987654320; Las Condes
+Nolita;San Antonio;Calle San Antonio 789, San Antonio;+56765432108; San Antonio
+Nolita;Grecia;Av. Grecia 123,uoa, Santiago;+562543210986;uoa
+Nolita;Estado;Calle Estado 456, Santiago Centro;+56432109875; Santiago Centro
+Outback Steak;Las Condes;Av. Las Condes 789, Las Condes, Santiago;+562210987653; Las Condes
+Outback Steak;Maintencin;Calle Maintencin 123, Maintencillo;+56109876541; Maintencillo
+Gilded Truffle;Grecia;Av. Grecia 456,uoa, Santiago;+562987654319;uoa
+Gilded Truffle;Estado;Calle Estado 789, Santiago Centro;+56765432107; Santiago Centro
+Gilded Truffle;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+562543210985; Las Condes
+Gilded Truffle;Viel;Calle Viel 456, Via del Mar;+56432109874; Via del Mar
+Gilded Truffle;OHiggins;Av. OHiggins 789, Rancagua;+562210987652; Rancagua
+Gilded Truffle;Prat;Calle Prat 123, Iquique;+56109876540; Iquique
+Gilded Truffle;Alemania;Av. Alemania 456, Temuco;+562987654318; Temuco
+Gilded Truffle;Larga;Calle Larga 789, Los Andes;+56765432106; Los Andes
+Gilded Truffle;Coln;Av. Coln 123, Antofagasta;+562543210984; Antofagasta
+FCK;Vitacura;Av. Vitacura 456, Vitacura, Santiago;+56432109873; Vitacura
+FCK;Apoquindo;Av. Apoquindo 789, Las Condes, Santiago;+562210987651; Las Condes
+FCK;San Antonio;Calle San Antonio 123, San Antonio;+56109876539; San Antonio
+FCK;Grecia;Av. Grecia 456,uoa, Santiago;+562987654317;uoa
+FCK;Estado;Calle Estado 789, Santiago Centro;+56765432105; Santiago Centro
+FCK;Las Condes;Av. Las Condes 123, Las Condes, Santiago;+562543210983; Las Condes
+FCK;Maintencin;Calle Maintencin 456, Maintencillo;+56432109872; Maintencillo
+FCK;Grecia;Av. Grecia 789,uoa, Santiago;+562210987650;uoa
+FCK;Estado;Calle Estado 123, Santiago Centro;+56109876538; Santiago Centro
+FCK;Apoquindo;Av. Apoquindo 456, Las Condes, Santiago;+562987654316; Las Condes
+Central Perk;Vitacura;Av. Vitacura 789, Vitacura, Santiago;+56765432104; Vitacura
+Central Perk;San Antonio;Calle San Antonio 123, San Antonio;+562543210982; San Antonio
+Central Perk;Grecia;Av. Grecia 456,uoa, Santiago;+56432109871;uoa
+Central Perk;Estado;Calle Estado 789, Santiago Centro;+562210987649; Santiago Centro
+Central Perk;Las Condes;Av. Las Condes 123, Las Condes, Santiago;+56109876537; Las Condes
+Krusty Krab;Maintencin;Calle Maintencin 456, Maintencillo;+562987654315; Maintencillo
+Krusty Krab;Grecia;Av. Grecia 789,uoa, Santiago;+56765432103;uoa
+Krusty Krab;Estado;Calle Estado 123, Santiago Centro;+562543210981; Santiago Centro
+Krusty Krab;Apoquindo;Av. Apoquindo 456, Las Condes, Santiago;+56432109870; Las Condes
+Krusty Krab;Viel;Calle Viel 789, Via del Mar;+562210987648; Via del Mar
+Krusty Krab;OHiggins;Av. OHiggins 123, Rancagua;+56109876536; Rancagua
+Krusty Krab;Prat;Calle Prat 456, Iquique;+562987654314; Iquique
+Krusty Krab;Alemania;Av. Alemania 789, Temuco;+56765432102; Temuco
+Krusty Krab;Larga;Calle Larga 123, Los Andes;+562543210980; Los Andes
+Krusty Krab;Coln;Av. Coln 456, Antofagasta;+56432109869; Antofagasta
+Chum Bucket;Vitacura;Av. Vitacura 789, Vitacura, Santiago;+562210987647; Vitacura
+Chum Bucket;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+56109876535; Las Condes
+Chum Bucket;San Antonio;Calle San Antonio 456, San Antonio;+562987654313; San Antonio
+Chum Bucket;Grecia;Av. Grecia 789,uoa, Santiago;+56765432101;uoa
+Chum Bucket;Estado;Calle Estado 123, Santiago Centro;+562543210979; Santiago Centro
+Chum Bucket;Las Condes;Av. Las Condes 456, Las Condes, Santiago;+56432109868; Las Condes
+Chum Bucket;Maintencin;Calle Maintencin 789, Maintencillo;+562210987646; Maintencillo
+Chum Bucket;Grecia;Av. Grecia 123,uoa, Santiago;+56109876534;uoa
+Doble Queso;Estado;Calle Estado 456, Santiago Centro;+562987654312; Santiago Centro
+Doble Queso;Apoquindo;Av. Apoquindo 789, Las Condes, Santiago;+56765432100; Las Condes
+Doble Queso;Viel;Calle Viel 123, Via del Mar;+562543210978; Via del Mar
+Doble Queso;OHiggins;Av. OHiggins 456, Rancagua;+56432109867; Rancagua
+Doble Queso;Prat;Calle Prat 789, Iquique;+562210987645; Iquique
+Doble Queso;Alemania;Av. Alemania 123, Temuco;+56109876533; Temuco
+Pollos Hermanos;Larga;Calle Larga 456, Los Andes;+562987654311; Los Andes
+Pollos Hermanos;Coln;Av. Coln 789, Antofagasta;+56765432099; Antofagasta
+Pollos Hermanos;Vitacura;Av. Vitacura 123, Vitacura, Santiago;+562543210977; Vitacura
+Pollos Hermanos;Apoquindo;Av. Apoquindo 456, Las Condes, Santiago;+56432109866; Las Condes
+Pollos Hermanos;San Antonio;Calle San Antonio 789, San Antonio;+562210987644; San Antonio
+Pollos Hermanos;Grecia;Av. Grecia 123,uoa, Santiago;+56109876532;uoa
+Pollos Hermanos;Estado;Calle Estado 456, Santiago Centro;+562987654310; Santiago Centro
+Casiss;Las Condes;Av. Las Condes 789, Las Condes, Santiago;+56765432098; Las Condes
+Casiss;Maintencin;Calle Maintencin 123, Maintencillo;+562543210976; Maintencillo
+Casiss;Grecia;Av. Grecia 456,uoa, Santiago;+56432109865;uoa
+Casiss;Estado;Calle Estado 789, Santiago Centro;+562210987643; Santiago Centro
+Casiss;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+56109876531; Las Condes
+Casiss;Viel;Calle Viel 456, Via del Mar;+562987654309; Via del Mar
+Casiss;OHiggins;Av. OHiggins 789, Rancagua;+56765432097; Rancagua
+Comida Peruana;Prat;Calle Prat 123, Iquique;+562543210975; Iquique
+Comida Peruana;Alemania;Av. Alemania 456, Temuco;+56432109864; Temuco
+Comida Peruana;Larga;Calle Larga 789, Los Andes;+562210987642; Los Andes
+DeliQuick;Coln;Av. Coln 123, Antofagasta;+56109876530; Antofagasta
+DeliQuick;Vitacura;Av. Vitacura 456, Vitacura, Santiago;+562987654308; Vitacura
+DeliQuick;Apoquindo;Av. Apoquindo 789, Las Condes, Santiago;+56765432096; Las Condes
+DeliQuick;San Antonio;Calle San Antonio 123, San Antonio;+562543210974; San Antonio
+Korf;Grecia;Av. Grecia 456,uoa, Santiago;+56432109863;uoa
+Korf;Estado;Calle Estado 789, Santiago Centro;+562210987641; Santiago Centro
+Korf;Las;Av. Las Condes 123, Las Condes, Santiago;+56109876529; Las Condes
+Korf;Maintencin;Calle Maintencin 456, Maintencillo;+562987654307; Maintencillo
+Korf;Grecia;Av. Grecia 789,uoa, Santiago;+56765432095;uoa
+Korf;Estado;Calle Estado 123, Santiago Centro;+562543210973; Santiago Centro
+Korf;Apoquindo;Av. Apoquindo 456, Las Condes, Santiago;+56432109862; Las Condes
+Korf;Viel;Calle Viel 789, Via del Mar;+562210987640; Via del Mar
+Castaa;OHiggins;Av. OHiggins 123, Rancagua;+56109876528; Rancagua
+Castaa;Prat;Calle Prat 456, Iquique;+562987654306; Iquique
+Castaa;Alemania;Av. Alemania 789, Temuco;+56765432094; Temuco
+Castaa;Larga;Calle Larga 123, Los Andes;+562543210972; Los Andes
+Castaa;Coln;Av. Coln 456, Antofagasta;+56432109861; Antofagasta
+Castaa;Vitacura;Av. Vitacura 789, Vitacura, Santiago;+562210987639; Vitacura
+Castaa;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+56109876527; Las Condes
+Castaa;San Antonio;Calle San Antonio 456, San Antonio;+562987654305; San Antonio
+Castaa;Grecia;Av. Grecia 789,uoa, Santiago;+56765432093;uoa
+Papa Juan;Estado;Calle Estado 123, Santiago Centro;+562543210971; Santiago Centro
+Papa Juan;Las Condes;Av. Las Condes 456, Las Condes, Santiago;+56432109860; Las Condes
+Papa Juan;Maintencin;Calle Maintencin 789, Maintencillo;+562210987638; Maintencillo
+Papa Juan;Grecia;Av. Grecia 123,uoa, Santiago;+56109876526;uoa
+Papa Juan;Estado;Calle Estado 456, Santiago Centro;+562987654304; Santiago Centro
+Papa Juan;Apoquindo;Av. Apoquindo 789, Las Condes, Santiago;+56765432092; Las Condes
+Papa Juan;Viel;Calle Viel 123, Via del Mar;+562543210970; Via del Mar
+Papa Juan;OHiggins;Av. OHiggins 456, Rancagua;+56432109859; Rancagua
+Papa Juan;Prat;Calle Prat 789, Iquique;+562210987637; Iquique
+Pequeo Cesar;Alemania;Av. Alemania 123, Temuco;+56109876525; Temuco
+Pequeo Cesar;Larga;Calle Larga 456, Los Andes;+562987654303; Los Andes
+Pequeo Cesar;Coln;Av. Coln 789, Antofagasta;+56765432091; Antofagasta
+Pequeo Cesar;Vitacura;Av. Vitacura 123, Vitacura, Santiago;+562543210969; Vitacura
+Pequeo Cesar;Apoquindo;Av. Apoquindo 456, Las Condes, Santiago;+56432109858; Las Condes
+Pequeo Cesar;San Antonio;Calle San Antonio 789, San Antonio;+562210987636; San Antonio
+Pequeo Cesar;Grecia;Av. Grecia 123,uoa, Santiago;+56109876524;uoa
+Pequeo Cesar;Estado;Calle Estado 456, Santiago Centro;+562987654302; Santiago Centro
+Metro Sandwich;Las Condes;Av. Las Condes 789, Las Condes, Santiago;+56765432090; Las Condes
+Metro Sandwich;Maintencin;Calle Maintencin 123, Maintencillo;+562543210968; Maintencillo
+Metro Sandwich;Grecia;Av. Grecia 456,uoa, Santiago;+56432109857;uoa
+Metro Sandwich;Estado;Calle Estado 789, Santiago Centro;+562210987635; Santiago Centro
+New Sushi;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+56109876523; Las Condes
+New Sushi;Viel;Calle Viel 456, Via del Mar;+562987654301; Via del Mar
+New Sushi;OHiggins;Av. OHiggins 789, Rancagua;+56765432089; Rancagua
+New Sushi;Prat;Calle Prat 123, Iquique;+562543210967; Iquique
+New Sushi;Alemania;Av. Alemania 456, Temuco;+56789456123; Temuco
+New Sushi;Larga;Calle Larga 789, Los Andes;+562321456789; Los Andes
+New Sushi;Coln;Av. Coln 123, Antofagasta;+56987321456; Antofagasta
+Carlos Sr;Vitacura;Av. Vitacura 456, Vitacura, Santiago;+562147896325; Vitacura
+Carlos Sr;San Antonio;Calle San Antonio 789, San Antonio;+56258963147; San Antonio
+Carlos Sr;Grecia;Av. Grecia 123,uoa, Santiago;+562369258147;uoa
+Carlos Sr;Estado;Calle Estado 456, Santiago Centro;+56471396258; Santiago Centro
+Carlos Sr;Las;Av. Las Condes 789, Las Condes, Santiago;+562582147963; Las Condes
+Just Pizza;Maintencin;Calle Maintencin 123, Maintencillo;+56693258147; Maintencillo
+Just Pizza;Grecia;Av. Grecia 456,uoa, Santiago;+562714963258;uoa
+Just Pizza;Estado;Calle Estado 789, Santiago Centro;+56825369147; Santiago Centro
+Just Pizza;Apoquindo;Av. Apoquindo 123, Las Condes, Santiago;+562936147258; Las Condes
+Just Pizza;Viel;Calle Viel 456, Via del Mar;+56147258369; Via del Mar
+Just Pizza;OHiggins;Av. OHiggins 789, Rancagua;+562258369147; Rancagua
+Just Pizza;Prat;Calle Prat 123, Iquique;+56369147258; Iquique
+Just Pizza;Alemania;Av. Alemania 456, Temuco;+562147896325; Temuco
+Just Pizza;Larga;Calle Larga 789, Los Andes;+56369147258; Los Andes
+Just Pizza;Coln;Av. Coln 123, Antofagasta;+562478963125; Antofagasta

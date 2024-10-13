@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Food</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <h1>¡Easy Food App!</h1>
+    <form action="/consulta_two" method="post">
+        <label for="email_cliente">Ingrese el email del cliente:</label>
+        <input type="text" id="email_cliente" name="email_cliente" required><br>
+        <input type="submit" value="Consultar">
+    </form>
+    <div class="container">
+        <button id='advanced_queries' onclick="window.location.href='/consultas'">
+            Volver hacia consultas</button>
+    </div>
+    <div class="container">
+        <button class='back' id='back' onclick="window.location.href='/'">Inicio</button>
+    </div>
+</body>
+
+</html>

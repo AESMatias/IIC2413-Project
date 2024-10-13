@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrega 2</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <h1>¡Easy Food App!</h1>
+    <h2>Para consultar, por favor rellena el formulario</h2>
+    <form action="/consulta_primaria" method="post">
+        <label for="atributos">Atributos (A):</label>
+        <input type="text" id="atributos" name="atributos" required><br>
+        <label for="tablas">Tablas (T):</label>
+        <input type="text" id="tablas" name="tablas" required><br>
+        <label for="condiciones">Condiciones (C):</label>
+        <input type="text" id="condiciones" name="condiciones" required><br>
+        <input type="submit" value="Consultar!">
+    </form>
+    <div class="container">
+        <button id='advanced_queries' onclick="window.location.href='/consultas'">
+            Ir hacia las consultas avanzadas</button>
+    </div>
+
+</body>
+
+</html>

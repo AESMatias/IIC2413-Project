@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Easy Food</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+    <h1>¡Easy Food App!</h1>
+    <div class="container2">
+        <h5>vegano: 1</h5>
+        <h5>vegetariano: 2</h5>
+        <h5>alergicos: 3</h5>
+        <h5>celiacos: 4</h5>
+        <h5>diabeticos: 5</h5>
+        <h5>pescetarianos: 6</h5>
+        <h5>vegetarianos: 7</h5>
+        <h5>veganos: 8</h5>
+        
+        
+    </div>
+    <form action="/consulta_ten" method="post">
+        <label for="plato_restriccion">Ingrese el número de restricción:</label>
+        <input type="text" id="plato_restriccion" name="plato_restriccion" required><br>
+        <input type="submit" value="Consultar">
+    </form>
+    <div class="container">
+        <button id='advanced_queries' onclick="window.location.href='/consultas'">
+            Volver hacia consultas</button>
+    </div>
+    <div class="container">
+        <button class='back' id='back' onclick="window.location.href='/'">Inicio</button>
+    </div>
+</body>
+
+</html>
